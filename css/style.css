@@ -1,0 +1,35 @@
+body{
+    background-color: ivory;
+    color: black;
+  }
+  
+  
+  
+
+  
+
+  
+  header {
+
+    color: white;
+    text-align: center;
+  }
+  
+  #hero {
+   margin-left: 50%;
+   margin-right: 50%;
+  }
+
+
+  section{
+    display:inline-block;
+    width:400px;
+    margin-left:30px;
+  }
+
+  #banner{
+  padding-left: 25px;
+
+  }
+
+ 
